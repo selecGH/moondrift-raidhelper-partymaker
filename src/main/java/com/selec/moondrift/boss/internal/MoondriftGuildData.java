@@ -65,8 +65,10 @@ public class MoondriftGuildData {
         MOONDRIFT_MEMBERS.put("265449672250884097", new GuildMember("Mephistonn", ClassData.Paladin));
         MOONDRIFT_MEMBERS.put("340985610078650369", new GuildMember("Morkays", ClassData.Paladin));
         MOONDRIFT_MEMBERS.put("225237211673657345", new GuildMember("Myki", ClassData.Paladin));
+        MOONDRIFT_MEMBERS.put("220165792132628482", new GuildMember("Niñatoxica", ClassData.Barda));
         MOONDRIFT_MEMBERS.put("354585336707547138", new GuildMember("Nofearzins", ClassData.Paladin));
         MOONDRIFT_MEMBERS.put("383732994516451330", new GuildMember("Nyarlototep", ClassData.Barda));
+        MOONDRIFT_MEMBERS.put("208228968418115584", new GuildMember("Oscureok", ClassData.Berserker));
         MOONDRIFT_MEMBERS.put("319928124902998018", new GuildMember("Pacaflaka", ClassData.Soulfist));
         MOONDRIFT_MEMBERS.put("330347115710513163", new GuildMember("Pandora", ClassData.Barda));
         MOONDRIFT_MEMBERS.put("851392666595754024", new GuildMember("Percal", ClassData.Berserker));
@@ -87,7 +89,8 @@ public class MoondriftGuildData {
         MOONDRIFT_MEMBERS.put("315131106456502272", new GuildMember("Serafinportero", ClassData.Paladin));
         MOONDRIFT_MEMBERS.put("976178140869185566", new GuildMember("Sergilaca", ClassData.Paladin));
         MOONDRIFT_MEMBERS.put("999356910115508265", new GuildMember("Shawnm", ClassData.Sharpshooter));
-        MOONDRIFT_MEMBERS.put("219070757546754049", new GuildMember("Shirôxz", ClassData.Arcana));
+        MOONDRIFT_MEMBERS.put("112203711853387776", new GuildMember("Shiriya", ClassData.Sorceress));
+        MOONDRIFT_MEMBERS.put("219070757546754049", new GuildMember("Shirôzx", ClassData.Arcana));
         MOONDRIFT_MEMBERS.put("400645401625100304", new GuildMember("Sinfreno", ClassData.Sorceress));
         MOONDRIFT_MEMBERS.put("332126362745962496", new GuildMember("Snaedis", ClassData.Barda));
         MOONDRIFT_MEMBERS.put("193070036158644225", new GuildMember("SrPoto", ClassData.Gunlancer));
@@ -103,6 +106,7 @@ public class MoondriftGuildData {
         MOONDRIFT_MEMBERS.put("291646899952418836", new GuildMember("Voltioxx", ClassData.Striker));
         MOONDRIFT_MEMBERS.put("133691127420157952", new GuildMember("Vulperina", ClassData.Deathblade));
         MOONDRIFT_MEMBERS.put("318785724885499905", new GuildMember("XukyGR", ClassData.Deathblade));
+        MOONDRIFT_MEMBERS.put("380113463843880972", new GuildMember("Ymigueel", ClassData.Paladin));
         MOONDRIFT_MEMBERS.put("335491857360486410", new GuildMember("Zhery", ClassData.Scrapper));
         MOONDRIFT_MEMBERS.put("99809899290034176", new GuildMember("Zuzubell", ClassData.Barda));
     }
