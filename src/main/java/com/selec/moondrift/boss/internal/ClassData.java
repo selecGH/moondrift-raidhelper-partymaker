@@ -22,7 +22,9 @@ public enum ClassData {
     Gunslinger("Gunslinger", "DPS"),
     Sharpshooter("Hawkeye", "DPS"),
     Artillerist("Artillerist", "DPS"),
-    Deadeye("Deadeye", "DPS");
+    Deadeye("Deadeye", "DPS"),
+
+    Reaper("Reaper", "DPS");
 
     String name;
     String type;
